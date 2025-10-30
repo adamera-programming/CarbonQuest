@@ -1,0 +1,13 @@
+image("image1", "https://up.yimg.com/ib/th/id/OIP.n-L4jZaRZgxCkZKkgLkEKgHaFX?pid=Api&rs=1&c=1&qlt=95&w=149&h=108");
+    setPosition("image1", 25, 45, 270, 270);
+button("signUp", "Get Started");
+    setPosition("signUp", 10, 320, 300, 45);
+    setProperty("signUp", "border-radius", 20);
+    setProperty("signUp", "background-color", "#46e034");
+textLabel("logIn", "Already a Member? | Log In");
+  setPosition("logIn", 35, 385);
+  setProperty("logIn", "font-size", 14);
+  setProperty("logIn", "text-align", "center");
+appendItem(allUI, "image1");
+appendItem(allUI, "logIn");
+appendItem(allUI, "signUp");
