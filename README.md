@@ -23,3 +23,7 @@ The CarbonQuest mobile application was presented to Congressman Herbert Conaway 
 
 
 **Demonstration:** https://youtu.be/iO1NKIuTIh8?si=eUkmXyPgdm6cTSI2
+
+
+**Note:** 
+The code is divided into multiple different sections and multiple different versions as well. If you would like to review the entire code please go to V3.js as this is the most updated version. Overall, we used 3,738 lines of code in order to make our app.
